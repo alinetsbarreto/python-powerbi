@@ -3,7 +3,7 @@
 ## Descrição
 
 * Exercício desenvolvido na Academia Mulheres em Tech Data Engineer (Accenture e GamaAcademy) com a proposta de integrar python com PowerBI.
-* Utilizar a biblioteca pandas em python para ler e transformar arquivo CSV e abrir o arquivo transformado diretamento no PowerBi Desktop através do *scripts python.*
+* Utilizar a biblioteca pandas em python para ler e transformar arquivo CSV e abrir o arquivo transformado diretamente no PowerBi Desktop através do *scripts python.*
 
 ## Exercício
 
