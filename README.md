@@ -53,13 +53,14 @@ print(df)
 
 ### Abrindo o CSV transformado no PowerBI pelo python script
 
-! (https://github.com/alinetsbarreto/python-powerbi/blob/main/pythonscript.png) 
-
+<img src="https://github.com/alinetsbarreto/python-powerbi/blob/main/pythonscript.png">
+</p>
 ---
 
 ### Preview da tabela no PowerBI
 
-![1677270761752](image/readme/1677270761752.png)
+<img src="https://github.com/alinetsbarreto/python-powerbi/blob/main/tabelapreview.png">
+</p>
 
 ---
 
@@ -67,8 +68,11 @@ print(df)
 
 Dashboard das ações, podendo filtrar os valores de cotação e volume de negociação pelo nome da empresa e periodo.
 
-![1677272352852](image/readme/1677272352852.png)
+<img src="https://github.com/alinetsbarreto/python-powerbi/blob/main/dashboard1.png">
+</p>
 
-![1677272365731](image/readme/1677272365731.png)
+<img src="https://github.com/alinetsbarreto/python-powerbi/blob/main/dashboard2.png">
+</p>
 
-![1677272380214](image/readme/1677272380214.png)
+<img src="https://github.com/alinetsbarreto/python-powerbi/blob/main/dashboard3.png">
+</p>
