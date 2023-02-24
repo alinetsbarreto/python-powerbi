@@ -53,8 +53,7 @@ print(df)
 
 ### Abrindo o CSV transformado no PowerBI pelo python script
 
-![1677270656110](image/readme/1677270656110.png)
-
+!pythonscript.png
 ---
 
 ### Preview da tabela no PowerBI
