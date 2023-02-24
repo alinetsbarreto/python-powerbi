@@ -53,7 +53,7 @@ print(df)
 
 ### Abrindo o CSV transformado no PowerBI pelo python script
 
-! pythonscript.png
+(https://github.com/alinetsbarreto/python-powerbi/blob/main/pythonscript.png) 
 
 ---
 
